@@ -1,1 +1,1 @@
-<img src="https://media3.giphy.com/media/WUDGo9jYZzVt3DExhi/giphy.gif" height="170"/> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MascaChapas27&hide=prs&show_icons=true&theme=dark&include_all_commits=true)
+<img src="https://pbs.twimg.com/profile_images/1752337928800346112/F_lxZ09T_400x400.jpg" height="170"/> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MascaChapas27&hide=prs&show_icons=true&theme=dark&include_all_commits=true) <img src="https://pbs.twimg.com/profile_images/1752337928800346112/F_lxZ09T_400x400.jpg" height="170"/>
