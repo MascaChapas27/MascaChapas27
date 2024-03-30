@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/WUDGo9jYZzVt3DExhi/giphy.gif" />
-</p>
+<img src="https://media3.giphy.com/media/WUDGo9jYZzVt3DExhi/giphy.gif" height="170"/> ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MascaChapas27&hide=prs&show_icons=true&theme=dark&include_all_commits=true)
