@@ -1,16 +1,16 @@
-### Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MascaChapas27&hide=prs&show_icons=true&theme=dark&include_all_commits=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MascaChapas27&hide=lua,yacc&layout=compact&show_icons=true&theme=dark&langs_count=4)
 
-<!--
-**MascaChapas27/MascaChapas27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/MascaChapas27/AlchemyTogether">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MascaChapas27&repo=AlchemyTogether&theme=dark" />
+</a>
+<a href="https://github.com/MascaChapas27/SegmentationFault">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MascaChapas27&repo=SegmentationFault&theme=dark" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/MascaChapas27/Kanji-God">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MascaChapas27&repo=Kanji-God&theme=dark" />
+</a>
+<a href="https://github.com/MascaChapas27/Mission23_recreativa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MascaChapas27&repo=Mission23_recreativa&theme=dark" />
+</a>
