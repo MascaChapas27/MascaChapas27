@@ -5,25 +5,25 @@
 <br>
 <br>
 
-<div style="display:flex;justify-content:center;">
+<p align="center">
     <img src="AlchemyTogetherPersonajillos.png" alt="drawing" style="width:315px;height:auto"/>
     <a href="https://MascaChapas27.itch.io/alchemy-together"><img src="https://img.itch.zone/aW1nLzE1MTc5OTc5LnBuZw==/315x250%23c/z0THjt.png" alt="Alchemy Together" style="width:315px;height:auto"/></a>
-</div>
+</p>
 
-<div style="display:flex;justify-content:center;">
+<p align="center">
     <a href="https://MascaChapas27.itch.io/mission-23"><img src="https://img.itch.zone/aW1nLzE0NDg2MDcyLnBuZw==/315x250%23c/BqOZ3%2B.png" alt="Mission 23" style="width:315px;height:auto"/></a>
     <img src="Mission23Personajillos.png" alt="drawing" style="width:315px;height:auto"/>
-</div>
+</p>
 
-<div style="display:flex;justify-content:center;">
+<p align="center">
     <img src="KanjiGodPersonajillos.png" alt="drawing" style="width:315px;height:auto"/>
     <a href="https://MascaChapas27.itch.io/kanji-god"><img src="https://img.itch.zone/aW1nLzE2MzY5NzMyLnBuZw==/315x250%23c/1VpFXL.png" alt="Kanji God" style="width:315px;height:auto"/></a>
-</div>
+</p>
 
-<div style="display:flex;justify-content:center;">
+<p align="center">
     <a href="https://github.com/MascaChapas27/Erase-un-combate"><img src="EraseUnCombate.png" alt="Érase Un Combate" style="width:315px;height:auto"/></a>
     <img src="EraseUnCombatePersonajillos.png" alt="drawing" style="width:315px;height:auto"/>
-</div>
+</p>
 
 <br>
 <br>
