@@ -6,7 +6,7 @@
 <br>
 
 <h1 align="center">
-    ☀️<em>Te doy la bienvenida a mi repositorio</em>☀️
+    ☀️<em>Te doy la bienvenida a mi cuenta de GitHub</em>☀️
 </h1>
 
 <p align="center">
