@@ -68,7 +68,7 @@
 </h2>
 
 <p align="center">
-    Un tributo en forma de juego de peleas a la que probablemente sea la mejor serie de comedia española.
+    Un tributo en forma de juego de peleas a la que probablemente sea la mejor serie de comedia española de todos los tiempos.
 </p>
 
 <p align="center">
