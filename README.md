@@ -10,9 +10,6 @@
     Aquí encontrarás sobre todo jueguitos que hago en mi tiempo libre. Puedes hacer clic en las imágenes y en los gifs animados para acceder a las páginas de itch.io y a los repositorios de cada juego.
 </p>
 
-<br>
-<br>
-
 ---
 
 <h2 align="center">
@@ -50,7 +47,7 @@
 </h2>
 
 <p align="center">
-    Aprende japonés como un Dios.
+    Aprende japonés como un dios.
 </p>
 
 <p align="center">
