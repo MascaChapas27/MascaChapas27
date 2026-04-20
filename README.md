@@ -6,6 +6,14 @@
     ☀️<em>Te doy la bienvenida a mi cuenta de GitHub</em>☀️
 </h1>
 
+<br>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MascaChapas27&theme=cobalt2&locale=es&show_icons=true" align="center">
+</p>
+
+<br>
+
 <p align="center">
     Aquí encontrarás sobre todo jueguitos que hago en mi tiempo libre. Puedes hacer clic en las imágenes y en los gifs animados para acceder a las páginas de itch.io y a los repositorios de cada juego.
 </p>
