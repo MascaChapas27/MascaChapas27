@@ -64,6 +64,21 @@
 ---
 
 <h2 align="center">
+    A PRINCESS BEYOND THE CLOUDS
+</h2>
+
+<p align="center">
+    Guía al príncipe de los dragones y ayúdale a liberar a su pueblo del hechizo del rey de los cielos. (El juego está sin terminar. Empecé a hacerlo para una Game Jam y no lo terminé jejej).
+</p>
+
+<p align="center">
+    <a href="https://mascachapas27.itch.io/a-princess-beyond-the-clouds"><img src="https://img.itch.zone/aW1nLzI2MDE4MTI1LnBuZw==/315x250%23c/ZApdbM.png" alt="A Princess Beyond The Clouds" style="width:315px;height:auto"/></a>
+    <img src="APrincessBeyondTheCloudsGrabacion.gif" alt="drawing" style="width:315px;height:auto"/></a>
+</p>
+
+---
+
+<h2 align="center">
     ÉRASE UN COMBATE (En progreso)
 </h2>
 
@@ -72,8 +87,8 @@
 </p>
 
 <p align="center">
-    <img src="EraseUnCombate.png" alt="Érase Un Combate" style="width:315px;height:auto"/>
     <a href="https://github.com/MascaChapas27/Erase-un-combate"><img src="EraseUnCombateGrabacion.gif" alt="drawing" style="width:315px;height:auto"/></a>
+    <img src="EraseUnCombate.png" alt="Érase Un Combate" style="width:315px;height:auto"/>
 </p>
 
 <br>
