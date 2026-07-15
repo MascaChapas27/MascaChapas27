@@ -89,8 +89,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/MascaChapas27/Erase-un-combate"><img src="EraseUnCombateGrabacion.gif" alt="drawing" style="width:315px;height:auto"/></a>
     <img src="EraseUnCombate.png" alt="Érase Un Combate" style="width:315px;height:auto"/>
+    <a href="https://github.com/MascaChapas27/Erase-un-combate"><img src="EraseUnCombateGrabacion.gif" alt="drawing" style="width:315px;height:auto"/></a>
 </p>
 
 <br>
